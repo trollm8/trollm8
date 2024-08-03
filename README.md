@@ -2,8 +2,6 @@
 
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=trollm8&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=1269356346294407250)](https://discordapp.com/users/1266754182082461751)
 
 ***
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
