@@ -1,7 +1,7 @@
 ## 👀 Welcome to my GitHub profile!
 
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=trollm8&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1266754182082461751)
 
 ***
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
