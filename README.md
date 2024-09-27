@@ -21,9 +21,6 @@
 ## 😆 Random Programming humour
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
-## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <p align="center">
 <img src="https://github.com/trollm8/trollm8-site/images/avatar.png"> <img src="https://github.com/trollm8/trollm8-site/images/avatar.png">
 </p>
