@@ -18,8 +18,7 @@
 ***
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=trollmeight&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-## 😆 Random Programming humour
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
 
 <p align="center">
 <img src="https://github.com/trollmeight/trollmeight-site/images/avatar.png"> <img src="https://github.com/trollmeight/trollmeight-site/images/avatar.png">
